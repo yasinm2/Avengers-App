@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "avengers-endgame-1024x1024_898598-mm-90.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
